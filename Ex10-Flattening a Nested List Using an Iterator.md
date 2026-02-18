@@ -18,8 +18,8 @@ To design and implement a class `NestedIterator` that flattens a nested list of 
 ```java
 /*
 program that removes all nodes from a linked list whose value matches a given integer (val) and returns the new head of the modified linked list.
-Developed by: Abinaya A
-RegisterNumber:  212223040003
+Developed by: Shaik Azeez Ahamad
+RegisterNumber:  212223110046
 */
 import java.util.*;
 
